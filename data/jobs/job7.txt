@@ -1,0 +1,23 @@
+Responsibilities:
+
+As a Quantitative Researcher, you will:
+
+ Develop and enhance trading models using our in-house platform
+ Analyze extensive financial data sets to unearth trading opportunities
+ Provide analytical support to our experienced traders
+ Develop predictive models for market movements
+ Mentor interns and freshers, grooming them as future teammates
+
+Qualifications:
+
+The ideal candidate will possess:
+
+A degree in Computer Science, Mathematics, or Engineering from a leading institution.
+0-4 years of relevant work experience. 
+Exceptional analytical and problem-solving skills.
+Proficiency in programming, particularly in C++ or C.
+Working knowledge of Linux, Python, and shell scripting.
+A curious mindset and a passion for understanding complex systems.
+A disciplined and consistent work ethic.
+Strong communication and interpersonal skills.
+Previous experience in a startup or the High-Frequency Trading (HFT) industry will be an added advantage.
