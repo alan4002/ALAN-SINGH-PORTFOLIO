@@ -28,7 +28,7 @@ import urllib.request
 
 # If Google renames or retires this model, change it here (or set the
 # GEMINI_MODEL setting). Check the model list in Google AI Studio.
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+MODEL = os.environ.get("GEMINI_MODEL", "gemini-3.8-flash")
 API_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
 
 PORTFOLIO_FILE = "portfolio.json"
