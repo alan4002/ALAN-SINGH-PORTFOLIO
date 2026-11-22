@@ -112,7 +112,7 @@ def call_gemini(prompt, api_key):
     }).encode("utf-8")
     headers = {"Content-Type": "application/json", "x-goog-api-key": api_key}
 
-    for attempt in range(1, 4):
+  for attempt in range(1, 7):
         req = urllib.request.Request(url, data=body, headers=headers, method="POST")
         try:
             with urllib.request.urlopen(req, timeout=120) as resp:
@@ -120,7 +120,7 @@ def call_gemini(prompt, api_key):
             return data["candidates"][0]["content"]["parts"][0]["text"]
         except urllib.error.HTTPError as e:
             detail = e.read().decode("utf-8", errors="ignore")[:500]
-            if e.code in (429, 500, 503) and attempt < 3:
+           if e.code in (429, 500, 503) and attempt < 6:
                 wait = 30 * attempt
                 print(f"Google returned {e.code}. Waiting {wait}s and trying again...")
                 time.sleep(wait)
@@ -130,7 +130,7 @@ def call_gemini(prompt, api_key):
             sys.exit("Google replied in an unexpected format. Nothing was changed.")
         except urllib.error.URLError as e:
             sys.exit(f"Network problem: {e}. Nothing was changed.")
-    sys.exit("Gave up after 3 tries. Nothing was changed.")
+    sys.exit("Gave up after 6 tries. Google is too busy right now. Nothing was changed.")
 
 
 def parse_ai_json(text):
