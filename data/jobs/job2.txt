@@ -1,0 +1,12 @@
+Key Skills Required:
+Google Cloud Platform (GCP), GKE and Kubernetes.
+Terraform and Infrastructure as Code (IaC).
+GitHub/GitLab, Jenkins and CI/CD pipelines.
+Helm, Linux Administration and cluster management.
+Python/Shell scripting, cloud networking, IAM and security.
+
+Experience:
+4-9 years of relevant experience in GCP, GKE, Terraform and Kubernetes.
+
+Education:
+Bachelor’s or Master’s degree in Computer Science, IT, Engineering or a related field.
