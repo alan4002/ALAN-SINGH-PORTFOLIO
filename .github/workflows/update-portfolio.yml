@@ -1,0 +1,45 @@
+name: AI portfolio update
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"      # every Monday at 06:00 UTC
+  workflow_dispatch:          # also gives you a manual "Run workflow" button
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get your code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the AI update script
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/update_portfolio.py
+
+      - name: Open a pull request with the changes
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: ai-portfolio-update
+          commit-message: "AI: update portfolio content"
+          title: "AI portfolio update (please review)"
+          body: |
+            The AI reordered skills and reworded the intro and project descriptions
+            using the job descriptions in data/jobs/.
+
+            **Before merging, check:**
+            - Everything written is true about you
+            - The Vercel preview looks right
+            - suggestions.json is advice only; nothing in it is on your portfolio
+          add-paths: |
+            portfolio.json
+            suggestions.json
