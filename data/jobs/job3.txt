@@ -1,0 +1,14 @@
+Job Description
+
+Programming: Advance Python, SQL OR JavaScript’s/ React/Angular, SQL
+
+AI/ML: Machine Learning, Predictive Analytics, Time-Series Forecasting, Anomaly Detection, Classification
+
+GenAI: LLMs, Prompt Engineering, RAG, LLM Guardrails, MCP Servers / Agent Tool Layer, MCP Servers / Agent Tool Layer
+
+Platforms: AWS, SageMaker
+
+Data: Data Modeling, Feature Engineering, Data Visualization, Statistical Analysis
+
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, 
+all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.
