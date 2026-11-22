@@ -1,0 +1,23 @@
+Job Description
+
+Build hands-on Gen AI prototypes, pilots and reusable components for AI roadmap.
+
+Implement AI solutions for knowledge-base query, requirements generation, design support, trace/RCA, test strategy, test case generation, test execution support, deployment/MOP and stakeholder interaction analysis.
+
+Develop RAG pipelines over requirements specifications and design documents, test plans, tickets, KB articles, deployment records, application and system logs and traces.
+
+Build document-processing pipelines including parsing, metadata extraction, chunking, embedding generation, vector indexing and retrieval logic.
+
+Create prompts, structured outputs and reusable skill files for requirements, acceptance criteria, design summaries, test cases, RCA summaries and stakeholder summaries.
+
+Build n8n workflows for AI automation, including document ingestion, knowledge refresh, ticket summarisation, requirement extraction, trace processing, test generation, approvals and metrics capture.
+
+Use Claude Code to support code understanding, code generation, refactoring, unit-test generation, documentation and engineering productivity within the OSP delivery context.
+
+Implement evaluation mechanisms to track output quality, retrieval accuracy, hallucination risk, human review effort, time saved, adoption and AI output acceptance rate.
+
+Work closely with SMEs, developers, testers, deployment teams and use-case owners to validate AI outputs and improve solution quality.
+
+Document reusable assets, demos, workflows, lessons learned and implementation patterns in the AI KM repository and AI Engineering Playbook.
+
+Capgemini is a global business and technology transformation partner, helping organizations to accelerate their dual transition to a digital and sustainable world, while creating tangible impact for enterprises and society. It is a responsible and diverse group of 340,000 team members in more than 50 countries. With its strong over 55-year heritage, Capgemini is trusted by its clients to unlock the value of technology to address the entire breadth of their business needs. It delivers end-to-end services and solutions leveraging strengths from strategy and design to engineering, all fueled by its market leading capabilities in AI, generative AI, cloud and data, combined with its deep industry expertise and partner ecosystem.
