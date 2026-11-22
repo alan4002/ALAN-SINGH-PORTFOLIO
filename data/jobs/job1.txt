@@ -1,0 +1,40 @@
+Develops applications and systems that utilize AI tools, Cloud AI services, with proper cloud or on-prem application pipeline with production ready quality. Be able to apply GenAI models as part of the solution. Could also include but not limited to deep learning, neural networks, chatbots, image processing.
+
+Must have skills : Large Language Models (LLMs)
+
+Good to have skills : NA
+
+Minimum 7.5 Year(s) Of Experience Is Required
+
+Educational Qualification : 15 years full time education
+
+Summary:
+
+As an AI / ML Engineer, a typical day involves designing and building advanced applications and systems that leverage artificial intelligence technologies. This role requires integrating cloud-based AI services or on-premises application pipelines to deliver solutions that meet production standards. The work often includes applying generative AI models to enhance functionalities and may extend to areas such as deep learning, neural networks, conversational agents, and image analysis. Collaboration with various teams to ensure seamless deployment and continuous improvement of AI-driven solutions is a key aspect of the daily routine.
+
+Roles & Responsibilities:
+
+ Expected to be an SME, collaborate and manage the team to perform.
+ Responsible for team decisions.
+ Engage with multiple teams and contribute on key decisions.
+ Provide solutions to problems for their immediate team and across multiple teams.
+ Lead the development and implementation of AI models to address complex challenges.
+ Facilitate knowledge sharing and mentorship within the team to foster professional growth.
+ Coordinate cross-functional efforts to align AI initiatives with organizational goals.
+
+
+Professional & Technical Skills:
+
+ Must To Have Skills: Proficiency in Large Language Models (LLMs).
+ Experience in designing and deploying AI applications using cloud AI services and on-premises pipelines.
+ Strong understanding of generative AI model integration within production environments.
+ Familiarity with deep learning frameworks and neural network architectures.
+ Ability to develop and optimize chatbots and image processing solutions.
+ Skilled in troubleshooting and resolving technical challenges in AI system deployments.
+
+
+Additional Information:
+
+ The candidate should have minimum 7.5 years of experience in Large Language Models (LLMs).
+ This position is based at our Gurugram office.
+ A 15 years full time education is required.
