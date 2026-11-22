@@ -1,0 +1,42 @@
+Key Requirements / Responsibilities: 
+
+Assist in the administration and maintenance of the CyberArk PAM solution, including the management of safes, platforms, and policies.
+Monitor the health and performance of the CyberArk environment, responding to alerts and notifications in a timely manner.
+Provide first-level support for issues related to privileged account access, including password checkouts, session management, and account onboarding.
+Participate in the onboarding of new accounts into the CyberArk platform, ensuring compliance with security policies and best practices.
+Collaborate with the cybersecurity team to implement enhancements and updates to the CyberArk infrastructure.
+Document standard operating procedures, system configurations, and incident reports.
+Assist in the development and delivery of CyberArk user training and awareness programs.
+Support internal and external audits by providing necessary documentation and evidence related to CyberArk operations.
+Stay up-to-date with the latest CyberArk features, updates, and industry best practices.
+Perform routine maintenance tasks such as patching, upgrades, and backups of the CyberArk environment
+
+Preferred Skills:
+
+Basic understanding of cybersecurity principles and practices.
+Familiarity with Windows and Unix/Linux operating systems.
+Knowledge of Active Directory and LDAP is a plus.
+Strong analytical and problem-solving skills.
+Excellent communication and interpersonal skills.
+Ability to work in a fast-paced, team-oriented environment.
+Willingness to learn and adapt to new technologies and challenges.
+Any experience with CyberArk or other PAM solutions is beneficial but not required.
+Certifications such as CyberArk Defender or Sentry are desirable but not mandatory for entry-level applicants
+
+Education:
+
+Bachelor’s degree in computer science, Information Technology, Cybersecurity, or a related field.
+
+Work Requirements:
+
+Willingness to travel as required
+Willingness to be on call support engineer and work occasional overtime as required
+Willingness to work in shifts as required
+
+EY | Building a better working world 
+
+EY exists to build a better working world, helping to create long-term value for clients, people and society and build trust in the capital markets.
+
+Enabled by data and technology, diverse EY teams in over 150 countries provide trust through assurance and help clients grow, transform and operate.
+
+Working across assurance, consulting, law, strategy, tax and transactions, EY teams ask better questions to find new answers for the complex issues facing our world today.
