@@ -1,0 +1,42 @@
+Project Role : Application Support Engineer
+
+Project Role Description : Act as software detectives, provide a dynamic service identifying and solving issues within multiple components of critical business systems.
+
+Must have skills : Site Reliability Engineering
+
+Good to have skills : NA
+
+Minimum 7.5 Year(s) Of Experience Is Required
+
+Educational Qualification : 15 years full time education
+
+Summary:
+
+As an Application Support Engineer, a typical day involves acting as a software detective by proactively monitoring and investigating issues across various critical business systems. This role requires dynamic problem-solving to identify root causes and implement effective solutions, ensuring the smooth operation and reliability of multiple interconnected components. The position demands continuous vigilance and collaboration to maintain system stability and support business continuity in a fast-paced environment.
+
+Roles & Responsibilities:
+
+ Expected to be an SME, collaborate and manage the team to perform.
+ Responsible for team decisions.
+ Engage with multiple teams and contribute on key decisions.
+ Provide solutions to problems for their immediate team and across multiple teams.
+ Lead efforts to improve system reliability and operational efficiency through innovative approaches.
+ Mentor and support junior team members to foster professional growth and knowledge sharing.
+ Coordinate cross-functional communication to ensure alignment on incident resolution and system enhancements.
+
+
+Professional & Technical Skills:
+
+ Must To Have Skills: Proficiency in Site Reliability Engineering.
+ Strong knowledge of system monitoring, incident management, and root cause analysis techniques.
+ Experience with automation tools and scripting to streamline operational tasks and improve system reliability.
+ Ability to design and implement scalable and resilient infrastructure solutions.
+ Familiarity with cloud platforms and distributed systems to support high availability and performance.
+ Skilled in troubleshooting complex software and hardware issues within critical business environments.
+
+
+Additional Information:
+
+ The candidate should have minimum 7.5 years of experience in Site Reliability Engineering.
+ This position is based at our Gurugram office.
+ A 15 years full time education is required.
